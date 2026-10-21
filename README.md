@@ -2,7 +2,7 @@
 
 **Live Acumatica access-rights dashboard in Excel, delivered as a one-click client kit.**
 
-Demo video: https://youtu.be/oa5XYl6HprM
+[![Watch the demo](https://img.youtube.com/vi/oa5XYl6HprM/maxresdefault.jpg)](https://youtu.be/oa5XYl6HprM)
 
 ## The problem
 
