@@ -1,0 +1,21 @@
+# Never push data, binaries or secrets by accident
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+*.exe
+*.env
+.env*
+*.pfx
+*.pem
+*.key
+
+# JSON config files (may hold URLs / user names)
+*.json
+!.gitkeep
+
+# Local noise
+.venv/
+out/
+dist/
+*.log
